@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Resume
+Recent graduate of the Middlesex Technical Writing Certificate program with exposure to tools and practices associated with technical writing. Strengths include writing, research, and the willingness to learn things. 
 
-You can use the [editor on GitHub](https://github.com/juliomadridmcc/mcc_tools_tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- [Tools](#tools)
+- [Experience](#experience)
+- [Education](#education)
+- [Writing](#writing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tools
+**Authoring:** DITA, Oxygen XML Author, Adobe FrameMaker, and Microsoft Word
 
-### Markdown
+**Languages:** HTML, CSS, Markdown, and reStructured Text
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Graphics:** Adobe Photoshop and Microsoft Visio
 
-```markdown
-Syntax highlighted code block
+**Other:** GitHub, MadCap Flare, and SAS
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
+**Office Assistant, Euro Tech Auto Body Inc., Cambridge, MA (2019- Present)**
+-	Streamline procedures related to office services, identifying and resolving customer concerns, scheduling appointments, and creating an organized filing system
+-	Cultivate strong partnerships with nearby businesses to facilitate the exchange of products and services
+-	Use collision repair software to insert details related to vehicle damages and to retrieve customer information to answer questions on status of vehicle repairs
+- Earned positive feedback and recognition for excellent customer service on surveys and online reviews
 
-- Bulleted
-- List
+**Intern, Baker Library at Harvard Business School, Boston, MA (2016- 2018)**
+-	Rescued an invaluable collection of reports from deterioration for Harvard Business School, Princeton University, and MIT researchers
+-	Exported 5.8 million company reports from Laser D discs and saved them electronically; expedited the process by using multiple computers simultaneously
+- Cultivated cross functional relationships that ensured the successful completion of projects
+-	Used Microsoft Excel for entering data and reviewing Fortune 500 information
+-	Earned multiple extensions on the internship as a result of my work
 
-1. Numbered
-2. List
+## Education
+**Middlesex Technical Writing Certificate Program, Bedford, MA**
 
-**Bold** and _Italic_ and `Code` text
+Technical Writing Certificate (issued spring 2022)
 
-[Link](url) and ![Image](src)
-```
+**University of Massachusetts Lowell, Lowell, MA**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+B.A., Philosophy; Minor in History
 
-### Jekyll Themes
+## Writing
+- ["How to Complete the Laser D Project at Academic Libraries: A Guide for New Hires"](https://github.com/juliomadridmcc/mcc_tools_tech/files/8743548/Final.Project.on.Laser.D.docx)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliomadridmcc/mcc_tools_tech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [First MadCap Flare Project: What is MadCap Flare?](https://github.com/juliomadridmcc/mcc_tools_tech/files/8743559/MadCap.Project-.JM.zip)
 
-### Support or Contact
+- [Script for MadCap Flare Tutorial](https://github.com/juliomadridmcc/mcc_tools_tech/files/8743565/Week.14.Homework-.MadCap.Flare.Script-.Julio.Madrid.docx)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [JBL Tune 510BT vs. Apple Airpods 3: A Recommendation](https://github.com/juliomadridmcc/mcc_tools_tech/files/8743802/JBL.Tune.510BT.vs.Apple.Airpods.A3.1.docx)
